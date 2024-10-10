@@ -1,5 +1,6 @@
 body{
     background-color: black;
+    margin: 0 auto;
 }
    
 #content{ 
@@ -7,6 +8,45 @@ body{
     margin: 0 auto;
     background-color: navy;
 }
-
-
-    
+#nav{
+    text-align: center;
+}
+#hero-msg h1{
+    text-align: center;
+}
+#hero-msg h4{
+    text-align: center;
+}
+#button-box{
+    text-align: center;
+}
+#main section{
+    text-align: center;
+}
+header{background-color: navy}
+nav a:hover{
+    text-decoration: none;
+    background-color: navy
+}
+.book{
+    text-decoration: none;
+    background-color: navy
+}
+ .join{
+    text-decoration: none;
+    background-color: navy
+}
+.book:hover{background-color: navy}
+.join:hover{background-color: navy}
+#background{
+    height: 725px;
+    background-color: navy
+}
+.msg{background-color: navy}
+footer{
+    text-decoration: none;
+    background-color: navy
+}
+.icon{
+width: 80px;
+}
