@@ -10,7 +10,7 @@ body {
 }
 .qbox1 {
     margin: 20px;
-    border: 25px solid black;
+    border: 25px double black;
     padding: 10px 30px;
     width: 500px;
     border-radius: 90px;
@@ -22,7 +22,7 @@ body {
 
 .qbox2 {
     margin: 20px;
-    border: 40px dotted yellow;
+    border: 40px double yellow;
     padding: 30px 50px;
     width: 500px;
     background: darkcyan;
