@@ -12,7 +12,9 @@ body {
     margin: 20px;
     border: 25px solid black;
     padding: 10px 30px;
-    width: 500px
+    width: 500px;
+    border-radius: 90px;
+    box-sizing: border-box;
 }
 
 .qbox2 {
@@ -20,12 +22,16 @@ body {
     border: 40px dotted yellow;
     padding: 30px 50px;
     width: 500px;
-    background: #f1a0fa
+    background: #f1a0fa;
+    border-radius: 90px;
+    box-sizing: border-box;
 }
 .qbox3 {
     margin: 20px;
     border: 30px double darkred;
     padding: 30px 80px;
     width: 500px;
-    background: tan
+    background: tan;
+    border-radius: 90px;
+    box-sizing: border-box;
 }
