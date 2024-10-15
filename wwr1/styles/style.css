@@ -1,4 +1,4 @@
-body{
+.body{
     background-color: black;
     margin: 0 auto;
 }
@@ -32,7 +32,7 @@ nav a:hover{
     text-decoration: none;
     background-color: navy
 }
- .join{
+.join{
     text-decoration: none;
     background-color: navy
 }
