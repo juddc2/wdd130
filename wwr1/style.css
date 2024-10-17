@@ -29,11 +29,11 @@ nav a:hover{
 }
 .book{
     text-decoration: none;
-    background-color: navy
+    background-color: green:
 }
 .join{
     text-decoration: none;
-    background-color: navy
+    background-color: green;
 }
 .book:hover{background-color: green;}
 .join:hover{background-color: green;}
