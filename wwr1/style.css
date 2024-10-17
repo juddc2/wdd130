@@ -9,18 +9,23 @@ body{
 }
 #nav{
     text-align: center;
+    border: 25px double blue;
 }
 #hero-msg h1{
     text-align: center;
+    border: 25px solid blue;
 }
 #hero-msg h4{
     text-align: center;
+    border: 25px double blue;
 }
 #button-box{
     text-align: center;
+    border: 25px solid blue;
 }
 #main section{
     text-align: center;
+    border: 25px double blue;
 }
 header{background-color: green}
 nav a:hover{
