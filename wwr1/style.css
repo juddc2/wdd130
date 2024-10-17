@@ -1,12 +1,11 @@
-.body{
+body{
     background-color: black;
     margin: 0 auto;
 }
-
 #content{ 
     max-width: 1600px;
     margin: 0 auto;
-    background-color: navy;
+    background-color: green;
 }
 #nav{
     text-align: center;
@@ -23,10 +22,10 @@
 #main section{
     text-align: center;
 }
-header{background-color: navy}
+header{background-color: green}
 nav a:hover{
     text-decoration: none;
-    background-color: navy
+    background-color: green;
 }
 .book{
     text-decoration: none;
@@ -36,16 +35,16 @@ nav a:hover{
     text-decoration: none;
     background-color: navy
 }
-.book:hover{background-color: navy}
-.join:hover{background-color: navy}
+.book:hover{background-color: green;}
+.join:hover{background-color: green;}
 #background{
     height: 725px;
-    background-color: navy
+    background-color: green;
 }
-.msg{background-color: navy}
+.msg{background-color: green;}
 footer{
     text-decoration: none;
-    background-color: navy
+    background-color: green;
 }
 .icon{
 width: 80px;
