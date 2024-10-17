@@ -6,50 +6,81 @@ body{
     max-width: 1600px;
     margin: 0 auto;
     background-color: green;
+    font-family: 'Times New Roman', Times, serif;
 }
 #nav{
     text-align: center;
     border: 25px double blue;
+    font-family: 'Times New Roman', Times, serif;
 }
 #hero-msg h1{
     text-align: center;
-    border: 25px solid blue;
+    border: 10px double blue;
+    font-family: 'Times New Roman', Times, serif;
+    border-radius: 10px;
 }
 #hero-msg h4{
     text-align: center;
-    border: 25px double blue;
+    border: 10px double blue;
+    font-family: 'Times New Roman', Times, serif;
+    border-radius: 10px;
 }
 #button-box{
     text-align: center;
     border: 25px solid blue;
+    font-family: 'Times New Roman', Times, serif;
+    border-radius: 10px;
 }
 #main section{
     text-align: center;
     border: 25px double blue;
+    font-family: 'Times New Roman', Times, serif;
 }
-header{background-color: green}
+header{
+    background-color: green;
+    border: 25px double blue;
+    font-family: 'Times New Roman', Times, serif;
+}
 nav a:hover{
     text-decoration: none;
     background-color: green;
+    font-family: 'Times New Roman', Times, serif;
 }
 .book{
     text-decoration: none;
     background-color: green;
+    border: 10px double blue;
+    font-family: 'Times New Roman', Times, serif;
 }
 .join{
     text-decoration: none;
     background-color: green;
+    border: 10px double blue;
+    font-family: 'Times New Roman', Times, serif;
 }
-.book:hover{background-color: green;}
-.join:hover{background-color: green;}
+.book:hover{
+    background-color: green;
+    border: 10px double blue;
+    font-family: 'Times New Roman', Times, serif;
+}
+.join:hover{
+    background-color: green;
+    border: 10px double blue;
+    font-family: 'Times New Roman', Times, serif;
+}
 #background{
     height: 725px;
     background-color: green;
 }
-.msg{background-color: green;}
+.msg{
+    background-color: green;
+    border: 10px double blue;
+    font-family: 'Times New Roman', Times, serif;
+}
 footer{
     text-decoration: none;
     background-color: green;
+    font-family: 'Times New Roman', Times, serif;
 }
 .icon{
 width: 80px;
