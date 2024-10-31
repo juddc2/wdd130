@@ -1,4 +1,9 @@
+@font-face{
+    font-family: Halloween;
+    src: url(Scary\ Halloween\ Font.ttf);
+}
 body{
     background: orange;
     text-align: center;
+    font-family: Halloween;
 }
