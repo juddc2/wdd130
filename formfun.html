@@ -4,6 +4,14 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Form</title>
+    <script>
+        function handeSubmit(event){
+            event.preventDefult();
+            const firstName = document.getElementId("firstName").value;
+            const newsletter = document.getElemntId("newsletter").value;
+            alert(`You typed a First Name: ${firstName}!\nNewsletter: ${newsletter}`)
+        }
+    </script>
 </head>
 <body>
     <Form>
