@@ -5,7 +5,7 @@ body{
 #content{ 
     max-width: 1600px;
     margin: 0 auto;
-    background-color: green;
+    background-color: red;
     font-family: 'Times New Roman', Times, serif;
 }
 #nav{
@@ -38,50 +38,50 @@ body{
     font-family: 'Times New Roman', Times, serif;
 }
 header{
-    background-color: green;
+    background-color: red;
     border: 25px double blue;
     font-family: 'Times New Roman', Times, serif;
 }
 nav a:hover{
     text-decoration: none;
-    background-color: green;
+    background-color: red;
     font-family: 'Times New Roman', Times, serif;
 }
 .book{
     text-decoration: none;
-    background-color: green;
+    background-color: red;
     border: 10px double blue;
     font-family: 'Times New Roman', Times, serif;
 }
 .join{
     text-decoration: none;
-    background-color: green;
+    background-color: red;
     border: 10px double blue;
     font-family: 'Times New Roman', Times, serif;
 }
 .book:hover{
-    background-color: green;
+    background-color: red;
     border: 10px double blue;
     font-family: 'Times New Roman', Times, serif;
 }
 .join:hover{
-    background-color: green;
+    background-color: red;
     border: 10px double blue;
     font-family: 'Times New Roman', Times, serif;
 }
 #background{
     height: 725px;
-    background-color: green;
+    background-color: red;
     width: 100%
 }
 .msg{
-    background-color: green;
+    background-color: red;
     border: 10px double blue;
     font-family: 'Times New Roman', Times, serif;
 }
 footer{
     text-decoration: none;
-    background-color: green;
+    background-color: red;
     font-family: 'Times New Roman', Times, serif;
 }
 .icon{
