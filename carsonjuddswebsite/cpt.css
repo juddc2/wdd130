@@ -113,7 +113,6 @@ nav {
     grid-template-columns: 1fr 3fr 1fr;
 }       
 #hero-box {
-    justify-items: auto;
     grid-column: 1/4;
     grid-row: 1/3;
 }
